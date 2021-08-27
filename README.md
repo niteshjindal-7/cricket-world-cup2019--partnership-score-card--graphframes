@@ -71,3 +71,18 @@ In the notebook, we have followed below steps in detail for the use case - Ident
 4. Use Graph Frame to get the close and far association between players in terms of partnership scores. It will help determining the strong and weak partnership of a player.
 
 5. Analysis on the team where batting partnerships could not stand longer.
+
+
+
+References:
+
+'How to install and invoke pyspark in windows environment -'
+
+https://changhsinlee.com/install-pyspark-windows-jupyter/
+
+https://www.apache.org/dyn/closer.lua/spark/spark-3.1.2/spark-3.1.2-bin-hadoop3.2.tgz
+
+https://graphframes.github.io/graphframes/docs/_site/user-guide.html
+
+https://spark.apache.org/docs/1.6.1/sql-programming-guide.html
+
