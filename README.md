@@ -3,11 +3,11 @@
 **Please download below set up files which might help you in importing and using the packages used in the notebook:-**
 #######################################################################################################################
 
-**Refer below link to install PySpark:-**
+<> **Refer below link to install PySpark:-**
 
 https://changhsinlee.com/install-pyspark-windows-jupyter/
 
-**Refer below steps to install latest version of graphframe module after PySpark installion:-**
+<> **Refer below steps to install latest version of graphframe module after PySpark installion:-**
 
 1. Check the spark version installed by using below command in command prompt-
 
@@ -35,7 +35,7 @@ C:\Users\XXXXX\AppData\Local\Programs\Spark\spark-3.1.2-bin-hadoop2.7\python\gra
 `from graphframe import *`
 
 
-**JAVA INSTALLATION DETAILS:-**
+<> **JAVA INSTALLATION DETAILS:-**
 
 C:\Windows\system32>java -version
 
@@ -45,7 +45,7 @@ Java(TM) SE Runtime Environment (build 1.8.0_301-b09)
 
 Java HotSpot(TM) 64-Bit Server VM (build 25.301-b09, mixed mode)
 
-**Spark Version:-** 
+<> **Spark Version:-** 
 spark-3.1.2-bin-hadoop2.7 
 It can be download through below link-
 
