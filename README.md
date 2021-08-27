@@ -57,3 +57,16 @@ https://mirrors.estointernet.in/apache/spark/spark-3.1.2/spark-3.1.2-bin-hadoop2
 C:\\Users\\...\\Programs\\Spark\\spark-3.1.2-bin-hadoop2.7\\graphframes.zip
 
 graphframes-0.8.1-spark3.0-s_2.12
+
+**Load the scrapped 'matches data', Data Preprocessing and extract the required information. 
+In the notebook, we have followed below steps in detail for the use case - Identify Strong & Weak Partnership of a player using Graph Analytics:-**
+
+1. Data Preprocessing Phase[Matches_data.csv]
+
+2. Generate Partnership Score data. Treat partnership scores as edges in graph analysis
+
+3. Generate Batsmen Score data from preprocessed data of matches. We will treat Batsman total score as vertices in graph
+
+4. Use Graph Frame to get the close and far association between players in terms of partnership scores. It will help determining the strong and weak partnership of a player.
+
+5. Analysis on the team where batting partnerships could not stand longer.
