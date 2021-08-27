@@ -50,3 +50,10 @@ spark-3.1.2-bin-hadoop2.7
 It can be download through below link-
 
 https://mirrors.estointernet.in/apache/spark/spark-3.1.2/spark-3.1.2-bin-hadoop2.7.tgz
+
+
+**graphframe jar file path:**
+
+C:\\Users\\...\\Programs\\Spark\\spark-3.1.2-bin-hadoop2.7\\graphframes.zip
+
+graphframes-0.8.1-spark3.0-s_2.12
