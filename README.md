@@ -22,7 +22,7 @@ https://spark-packages.org/package/graphframes/graphframes
 
 4. Copy the `jar file` to spark location as a zip file. refer below sample command, which can be run in window power shell-
 
-cp 'C:\\Users\\XXXXX\\AppData\\Local\\Programs\\Spark\\spark-3.1.2-bin-hadoop2.7\\jars\\graphframes*.jar' 'C:\\Users\\XXXXX\\AppData\\Local\\Programs\\Spark\\spark-3.1.2-bin-hadoop2.7\\python\\graphframes.zip'
+`cp 'C:\\Users\\XXXXX\\AppData\\Local\\Programs\\Spark\\spark-3.1.2-bin-hadoop2.7\\jars\\graphframes*.jar' 'C:\\Users\\XXXXX\\AppData\\Local\\Programs\\Spark\\spark-3.1.2-bin-hadoop2.7\\python\\graphframes.zip'`
 
 5. Unzip it and cut items present in the same subfolder folder and paste them in outer folder name graphframe folder.
 
